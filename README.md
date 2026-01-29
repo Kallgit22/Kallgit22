@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Shivrajit Kushwaha<br>7th Semester B.Tech CSE Student | Full-Stack Developer | ML Enthusiast
-I am a passionate developer dedicated to building scalable web applications and exploring the world of Machine Learning. With a strong foundation in Next.js and C++ (DSA), I enjoy bridging the gap between complex backend logic and seamless user experiences.<br><br>🔭 I’m currently working on a Three-Portal School Management System.<br><br>⚡ Key expertise: Next.js, Flutter, Python, and C++.<br><br>🏗️ Experienced in integrating payment gateways and logistics APIs (Shiprocket) in production-ready apps.<br><br>🎓 Constant learner currently diving deeper into Computer Vision and Cloud Integration.
+👋 <strong>Hi, I’m Shivrajit Kushwaha</strong><br> <strong>7th Semester B.Tech CSE Student | Full-Stack Developer | ML Enthusiast</strong> <br>
+I am a passionate developer dedicated to building scalable web applications and exploring the world of Machine Learning. With a strong foundation in Next.js and C++ (DSA), I enjoy bridging the gap between complex backend logic and seamless user experiences.<br><br>🔭 I’m currently working on a Image Encryption using Deep Learning Project.<br><br>⚡ Key expertise: Next.js, Flutter, Python, and C++.<br><br>🏗️ Experienced in integrating payment gateways and logistics APIs (Shiprocket) in production-ready apps.<br><br>🎓 Constant learner currently diving deeper into Computer Vision and Cloud Integration.
 
 
 ## 🌐 Socials:
